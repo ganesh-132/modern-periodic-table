@@ -2,7 +2,7 @@
 
 An interactive, visually modern periodic table web application designed to make exploring chemical elements more engaging and intuitive.
 
-Built with HTML, CSS, and JavaScript, this project transforms the traditional periodic table into a responsive and animated experience. Users can click on any element to view detailed information, explore a dynamic Bohr model, and learn about discovery history—all in a visually appealing modal card.
+Built with HTML, CSS, and JavaScript,React this project transforms the traditional periodic table into a responsive and animated experience. Users can click on any element to view detailed information, explore a dynamic Bohr model, and learn about discovery history—all in a visually appealing modal card.
 
 ---
 
