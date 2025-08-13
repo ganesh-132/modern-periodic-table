@@ -36,40 +36,10 @@ Built with HTML, CSS, and JavaScript, this project transforms the traditional pe
 
 ## 🧑‍💻 Tech Stack
 
+- **React**
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- No frameworks required
-
----
-
-## 🛠️ Setup and Installation
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository**:
-
-```bash
-git clone https://github.com/ganeshupadhyay/modern-periodic-table.git
-cd modern-periodic-table
-
----
-
-🗂️ Project Structure
-
-modern-periodic-table/
-│
-├── index.html              # Main HTML layout
-├── /css/
-│   └── styles.css          # Custom styles and theming
-├── /js/
-│   ├── data.js             # Element data (atomic info, categories, etc.)
-│   ├── modal.js            # Modal functionality
-│   ├── bohrModel.js        # Animated Bohr model
-│   └── script.js           # Main logic and interactions
-├── /assets/                # Icons, images, etc.
-├── /screenshots/           # Screenshots used in the README
-└── README.md               # This file
 
 ---
 
