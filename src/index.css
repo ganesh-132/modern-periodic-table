@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for Bohr Model animations */
+@layer utilities {
+  .electron-orbit {
+    animation: orbit var(--orbit-duration) linear infinite;
+  }
+}
+
+/* Global styles for a clean, modern look */
+body {
+  font-family: 'Inter', sans-serif; /* Using Inter as a modern sans-serif font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling for a sleek look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2f2f2f; /* border color */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a4a4a; /* darker surface */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5a5a5a; /* slightly lighter on hover */
+}
