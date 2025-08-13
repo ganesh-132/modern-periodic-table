@@ -8,7 +8,7 @@ Built with HTML, CSS, and JavaScript, this project transforms the traditional pe
 
 ## 🌐 Live Demo
 
-🔗 **Try it out here**: [https://ganeshupadhyay.github.io/modern-periodic-table/]https://ganesh-132.github.io/modern-periodic-table/
+🔗 **Try it out here**: [https://ganeshupadhyay.github.io/modern-periodic-table/](https://ganesh-132.github.io/modern-periodic-table/)
 
 ---
 
